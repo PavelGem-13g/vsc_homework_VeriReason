@@ -1,0 +1,247 @@
+2025-12-14 21:28:56,342 [INFO] Logging initialized. Log file: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small/run.log
+2025-12-14 21:28:56,343 [INFO] Starting run with dataset=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/sample_15.jsonl output_dir=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small model=openai/gpt-oss-20b
+2025-12-14 21:28:56,344 [INFO] Output directory ready: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small
+2025-12-14 21:28:56,344 [INFO] Loaded 15 entries from /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/sample_15.jsonl
+2025-12-14 21:28:56,515 [INFO] Dataset entries to process: 15
+2025-12-14 21:28:56,548 [INFO] Processing entry entry_1 (1/15)
+2025-12-14 21:28:57,549 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-12-14 21:28:57,549 [INFO] Retrying request to /chat/completions in 0.459923 seconds
+2025-12-14 21:28:58,542 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-12-14 21:28:58,542 [INFO] Retrying request to /chat/completions in 0.797672 seconds
+2025-12-14 21:28:59,706 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-12-14 21:29:00,199 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-12-14 21:29:00,200 [INFO] Retrying request to /chat/completions in 0.384385 seconds
+2025-12-14 21:29:01,012 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-12-14 21:29:01,013 [INFO] Retrying request to /chat/completions in 0.873787 seconds
+2025-12-14 21:29:02,392 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-12-14 21:29:02,393 [INFO] Progress: processed=1 successful=0 deterministic=0
+2025-12-14 21:29:02,896 [INFO] Processing entry entry_2 (2/15)
+2025-12-14 21:29:03,601 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-12-14 21:29:03,602 [INFO] Retrying request to /chat/completions in 0.490321 seconds
+2025-12-14 21:29:25,301 [INFO] Logging initialized. Log file: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small/run.log
+2025-12-14 21:29:25,302 [INFO] Starting run with dataset=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/sample_15.jsonl output_dir=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small model=openai/gpt-oss-20b
+2025-12-14 21:29:25,302 [INFO] Output directory ready: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small
+2025-12-14 21:29:25,305 [INFO] Loaded 15 entries from /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/sample_15.jsonl
+2025-12-14 21:29:25,404 [INFO] Dataset entries to process: 15
+2025-12-14 21:29:25,434 [INFO] Processing entry entry_1 (1/15)
+2025-12-14 21:29:29,743 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:29:37,234 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:29:44,997 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:29:45,393 [INFO] Progress: processed=1 successful=1 deterministic=0
+2025-12-14 21:29:45,900 [INFO] Processing entry entry_2 (2/15)
+2025-12-14 21:29:48,580 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:29:54,687 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:29:55,082 [INFO] Progress: processed=2 successful=2 deterministic=0
+2025-12-14 21:29:55,585 [INFO] Processing entry entry_3 (3/15)
+2025-12-14 21:29:59,091 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:06,396 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:13,834 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:21,177 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:27,621 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:36,412 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:36,619 [INFO] Progress: processed=3 successful=2 deterministic=0
+2025-12-14 21:30:37,125 [INFO] Processing entry entry_4 (4/15)
+2025-12-14 21:30:39,175 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:45,325 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:51,128 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:30:57,031 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:03,724 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:09,447 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:09,828 [INFO] Progress: processed=4 successful=3 deterministic=0
+2025-12-14 21:31:10,329 [INFO] Processing entry entry_5 (5/15)
+2025-12-14 21:31:13,859 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:19,827 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:26,589 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:26,991 [INFO] Progress: processed=5 successful=4 deterministic=0
+2025-12-14 21:31:27,493 [INFO] Processing entry entry_6 (6/15)
+2025-12-14 21:31:30,792 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:36,007 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:42,793 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:48,873 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:54,300 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:31:59,883 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:00,267 [INFO] Progress: processed=6 successful=4 deterministic=0
+2025-12-14 21:32:00,773 [INFO] Processing entry entry_7 (7/15)
+2025-12-14 21:32:04,043 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:10,189 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:15,877 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:16,466 [INFO] Progress: processed=7 successful=5 deterministic=0
+2025-12-14 21:32:16,968 [INFO] Processing entry entry_8 (8/15)
+2025-12-14 21:32:19,162 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:24,377 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:30,043 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:35,138 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:35,593 [INFO] Progress: processed=8 successful=6 deterministic=0
+2025-12-14 21:32:36,097 [INFO] Processing entry entry_9 (9/15)
+2025-12-14 21:32:36,946 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:38,444 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:40,076 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:46,116 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:52,799 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:32:59,342 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:05,637 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:12,071 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:12,358 [INFO] Progress: processed=9 successful=6 deterministic=0
+2025-12-14 21:33:12,863 [INFO] Processing entry entry_10 (10/15)
+2025-12-14 21:33:15,086 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:17,221 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:19,294 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:24,745 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:32,352 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:38,127 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:43,475 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:43,887 [INFO] Progress: processed=10 successful=7 deterministic=0
+2025-12-14 21:33:49,399 [INFO] Processing entry entry_11 (11/15)
+2025-12-14 21:33:51,657 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:56,316 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:33:57,972 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:03,712 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:11,230 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:17,921 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:24,141 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:31,025 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:31,356 [INFO] Progress: processed=11 successful=7 deterministic=0
+2025-12-14 21:34:31,859 [INFO] Processing entry entry_12 (12/15)
+2025-12-14 21:34:32,315 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:34,804 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:35,509 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:40,552 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:46,811 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:53,217 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:34:58,980 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:04,412 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:04,660 [INFO] Progress: processed=12 successful=7 deterministic=0
+2025-12-14 21:35:05,164 [INFO] Processing entry entry_13 (13/15)
+2025-12-14 21:35:06,386 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:10,978 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:14,686 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:21,937 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:27,564 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:33,001 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:41,164 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:48,129 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:48,508 [INFO] Progress: processed=13 successful=8 deterministic=0
+2025-12-14 21:35:49,010 [INFO] Processing entry entry_14 (14/15)
+2025-12-14 21:35:50,006 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:52,089 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:35:53,712 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:36:01,774 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:36:02,158 [INFO] Progress: processed=14 successful=9 deterministic=0
+2025-12-14 21:36:02,660 [INFO] Processing entry entry_15 (15/15)
+2025-12-14 21:36:06,162 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:36:13,247 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:36:20,672 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-14 21:36:21,050 [INFO] Progress: processed=15 successful=10 deterministic=0
+2025-12-14 21:36:21,553 [INFO] Run complete. Processed=15 Successful=10 Deterministic=0 Results=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small/processed_entries.jsonl
+2025-12-15 00:34:38,206 [INFO] Logging initialized. Log file: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small/run.log
+2025-12-15 00:34:38,208 [INFO] Starting run with dataset=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/randomized_filtered_data_fixed.jsonl output_dir=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small model=openai/gpt-oss-20b
+2025-12-15 00:34:38,208 [INFO] Output directory ready: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small
+2025-12-15 00:34:38,219 [INFO] Loaded 1339 entries from /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/randomized_filtered_data_fixed.jsonl
+2025-12-15 00:34:38,314 [INFO] Dataset entries to process: 1339
+2025-12-15 00:34:38,346 [INFO] Processing entry entry_1 (1/1339)
+2025-12-15 00:34:38,792 [INFO] Retrying request to /chat/completions in 0.448391 seconds
+2025-12-15 00:34:39,252 [INFO] Retrying request to /chat/completions in 0.895306 seconds
+2025-12-15 00:34:40,170 [INFO] Retrying request to /chat/completions in 0.481660 seconds
+2025-12-15 00:34:40,696 [INFO] Retrying request to /chat/completions in 0.967021 seconds
+2025-12-15 00:34:41,688 [INFO] Progress: processed=1 successful=0 deterministic=0
+2025-12-15 00:34:42,192 [INFO] Processing entry entry_2 (2/1339)
+2025-12-15 00:34:42,394 [INFO] Retrying request to /chat/completions in 0.435519 seconds
+2025-12-15 00:34:42,849 [INFO] Retrying request to /chat/completions in 0.951539 seconds
+2025-12-15 00:35:33,355 [INFO] Logging initialized. Log file: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small/run.log
+2025-12-15 00:35:33,356 [INFO] Starting run with dataset=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/randomized_filtered_data_fixed.jsonl output_dir=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small model=openai/gpt-oss-20b
+2025-12-15 00:35:33,357 [INFO] Output directory ready: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small
+2025-12-15 00:35:33,369 [INFO] Loaded 1339 entries from /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/randomized_filtered_data_fixed.jsonl
+2025-12-15 00:35:33,460 [INFO] Dataset entries to process: 1339
+2025-12-15 00:35:33,489 [INFO] Processing entry entry_1 (1/1339)
+2025-12-15 00:36:29,059 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:37:31,055 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:38:31,403 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:38:31,914 [INFO] Progress: processed=1 successful=1 deterministic=0
+2025-12-15 00:38:32,420 [INFO] Processing entry entry_2 (2/1339)
+2025-12-15 00:38:52,886 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:39:43,095 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:41:30,462 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:41:30,983 [INFO] Progress: processed=2 successful=2 deterministic=0
+2025-12-15 00:41:31,487 [INFO] Processing entry entry_3 (3/1339)
+2025-12-15 00:42:57,471 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:44:01,187 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:44:01,650 [INFO] Progress: processed=3 successful=3 deterministic=0
+2025-12-15 00:44:02,175 [INFO] Processing entry entry_4 (4/1339)
+2025-12-15 00:44:29,167 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:45:13,288 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:45:13,677 [INFO] Progress: processed=4 successful=4 deterministic=0
+2025-12-15 00:45:14,180 [INFO] Processing entry entry_5 (5/1339)
+2025-12-15 00:45:23,316 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:45:54,662 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:45:54,903 [INFO] Progress: processed=5 successful=4 deterministic=0
+2025-12-15 00:45:55,409 [INFO] Processing entry entry_6 (6/1339)
+2025-12-15 00:46:21,343 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:47:11,737 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:47:53,455 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:48:40,411 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:49:20,787 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:50:13,120 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:50:13,543 [INFO] Progress: processed=6 successful=5 deterministic=0
+2025-12-15 00:50:14,046 [INFO] Processing entry entry_7 (7/1339)
+2025-12-15 00:50:18,200 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:50:32,651 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:50:54,646 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:52:00,818 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:52:58,507 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:54:01,891 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:54:02,337 [INFO] Progress: processed=7 successful=6 deterministic=0
+2025-12-15 00:54:02,845 [INFO] Processing entry entry_8 (8/1339)
+2025-12-15 00:54:20,966 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:55:07,048 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:55:07,466 [INFO] Progress: processed=8 successful=7 deterministic=0
+2025-12-15 00:55:07,968 [INFO] Processing entry entry_9 (9/1339)
+2025-12-15 00:55:10,394 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:55:24,174 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:55:47,226 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:56:37,770 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:57:31,486 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:58:24,653 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:58:25,069 [INFO] Progress: processed=9 successful=8 deterministic=0
+2025-12-15 00:58:25,570 [INFO] Processing entry entry_10 (10/1339)
+2025-12-15 00:58:51,291 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 00:59:10,327 [INFO] Retrying request to /chat/completions in 0.457143 seconds
+2025-12-15 00:59:15,802 [INFO] Retrying request to /chat/completions in 0.775174 seconds
+2025-12-15 00:59:21,587 [INFO] Progress: processed=10 successful=8 deterministic=0
+2025-12-15 00:59:27,091 [INFO] Processing entry entry_11 (11/1339)
+2025-12-15 00:59:32,249 [INFO] Retrying request to /chat/completions in 0.400177 seconds
+2025-12-15 00:59:59,753 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:00:46,912 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:00:47,308 [INFO] Progress: processed=11 successful=9 deterministic=0
+2025-12-15 01:00:47,811 [INFO] Processing entry entry_12 (12/1339)
+2025-12-15 01:01:07,544 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:01:54,703 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:02:46,965 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:03:37,826 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:04:33,453 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:05:20,447 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:05:20,654 [INFO] Progress: processed=12 successful=9 deterministic=0
+2025-12-15 01:05:21,155 [INFO] Processing entry entry_13 (13/1339)
+2025-12-15 01:05:44,322 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:06:34,132 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:07:17,887 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:08:14,844 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:09:01,799 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:09:51,223 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:09:51,543 [INFO] Progress: processed=13 successful=9 deterministic=0
+2025-12-15 01:09:52,049 [INFO] Processing entry entry_14 (14/1339)
+2025-12-15 01:10:19,512 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:11:32,924 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:11:33,411 [INFO] Progress: processed=14 successful=10 deterministic=0
+2025-12-15 01:11:33,913 [INFO] Processing entry entry_15 (15/1339)
+2025-12-15 01:12:01,028 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:12:46,919 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:12:47,329 [INFO] Progress: processed=15 successful=11 deterministic=0
+2025-12-15 01:12:47,831 [INFO] Processing entry entry_16 (16/1339)
+2025-12-15 01:13:07,397 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-15 01:13:49,734 [INFO] Logging initialized. Log file: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small/run.log
+2025-12-15 01:13:49,734 [INFO] Starting run with dataset=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/randomized_filtered_data_fixed.jsonl output_dir=/Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small model=openai/gpt-oss-20b
+2025-12-15 01:13:49,735 [INFO] Output directory ready: /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/runs/rtl_small
+2025-12-15 01:13:49,746 [INFO] Loaded 1339 entries from /Users/pavel/Yandex.Disk-pvpashentsev@edu.hse.ru.localized/HSE/4_year/VSC/homework/part2/VeriReason/datasets/RTL-Coder_small/randomized_filtered_data_fixed.jsonl
+2025-12-15 01:13:49,854 [INFO] Dataset entries to process: 1339
+2025-12-15 01:13:49,890 [INFO] Processing entry entry_1 (1/1339)
+2025-12-15 01:14:19,164 [INFO] HTTP Request: POST http://10.8.1.3:1234/v1/chat/completions "HTTP/1.1 200 OK"
